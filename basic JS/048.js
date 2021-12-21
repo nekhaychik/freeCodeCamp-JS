@@ -1,0 +1,1 @@
+const myList = [["Irina", 20], ["Irina", 20], ["Irina", 20], ["Irina", 20], ["Irina", 20]];
